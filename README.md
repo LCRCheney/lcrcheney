@@ -1,21 +1,18 @@
-### Hi there 👋
+### 你好！ 👋
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-        <img
-          align=center
-          src="https://img.shields.io/github/stars/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
-          style="margin: 0 5px"
-        /><img
-          align=center
-          src="https://img.shields.io/github/followers/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
-          style="margin: 0 5px"
-        />
-      </div>
+        <img align=center src="https://img.shields.io/github/stars/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px"/><img align=centersrc="https://img.shields.io/github/followers/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""style="margin: 0 5px"/>
+</div>
 
 <a href="https://github.com/LCRCheney" target="_blank"><img  align=center src="https://img.shields.io/badge/github-LCRCheney-%231677ff?style=flat"/></a>
 
 
 ### 项目 :package:
-##### 111
+ <p align="center">
+  [https://lovecards.cn](https://github.com/LCRCheney/lovecards.github.io)LoveCards文档
+  <a href="https://forum.lovecards.cn">LoveCards 论坛</a> •  
+  <a href="https://jq.qq.com/?_wv=1027&k=QTRjFYyB">LoveCards QQ群组</a> •  
+  <a href="https://github.com/zhiguai/LoveCards/releases">LoveCards 下载</a>•  
+</p>  
 
 
 ### 技术栈 :wrench:
