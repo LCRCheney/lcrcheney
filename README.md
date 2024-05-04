@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 技术栈:wrench:
+### 技术栈 :wrench:
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
