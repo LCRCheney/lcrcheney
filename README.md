@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
+        <img
+          align=center
+          src="https://img.shields.io/github/stars/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+          style="margin: 0 5px"
+        /><img
+          align=center
+          src="https://img.shields.io/github/followers/LCRCheney?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+          style="margin: 0 5px"
+        />
+      </div>
 
 
 
