@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+### 技术栈![001A02DF](https://github.com/LCRCheney/lcrcheney/assets/114345721/c7c6858d-eea5-4026-9b6a-a13192e34f8b)
+
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 <!--
