@@ -8,10 +8,9 @@
 
 ### 项目 :package:
  <p align="center">
-  [https://lovecards.cn](https://github.com/LCRCheney/lovecards.github.io)LoveCards文档
-  <a href="https://forum.lovecards.cn">LoveCards 论坛</a> •  
-  <a href="https://jq.qq.com/?_wv=1027&k=QTRjFYyB">LoveCards QQ群组</a> •  
-  <a href="https://github.com/zhiguai/LoveCards/releases">LoveCards 下载</a>•  
+  <a href="https://github.com/LCRCheney/lovecards.github.io">LoveCards 文档</a> •  
+  <a href="https://github.com/LCRCheney/LoveCardsV2-QWtemplate">LoveCards 青闻模板</a> •  
+  <a href="https://github.com/LCRCheney/Website-traffic-statistics">网站流量统计系统</a>•  
 </p>  
 
 
