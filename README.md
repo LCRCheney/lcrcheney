@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=LCRCheney&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=我的统计数据"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=LCRCheney&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=我的统计数据"/><img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCRCheney&locale=cn&line_height=33&theme=&langs_count=5&custom_title=我的常用语言"/>
 <!--
 **LCRCheney/lcrcheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
